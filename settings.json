@@ -1,5 +1,5 @@
 {
-  "name": "WELCOME",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Xhanetino.aternos.me",
-    "port": 60335,
+    "port":60335,
     "version": "",
     "try-creative": false
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
