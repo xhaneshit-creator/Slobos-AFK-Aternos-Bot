@@ -35,13 +35,11 @@
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
-   },
+},
 "chat-log": false,
 "auto-reconnect": true,
-"auto-reconnect-delay": 2000,
-"max-reconnect-delay": 120000,
-"leave-after": 1800000,
-"rejoin-after": 1800000
+"auto-reconnect-delay": 1800000,
+"max-reconnect-delay": 1800000
 },
   "movement": {
     "enabled": true,
